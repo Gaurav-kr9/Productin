@@ -17,6 +17,7 @@ const Navbar = () => {
         {link: "SigIn", path: "sigin"},
         {link: "Contact", path: "contact"},
         {link: "Home", path: "home"}
+        {link: "Home2", path: "home"}
     ]
     return (
    <>
