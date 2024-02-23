@@ -13,7 +13,7 @@ const Navbar = () => {
         {link: "Overview", path: "home"},
         {link: "Future", path: "feature"},
         {link: "About", path: "about"},
-        {link: "Pricing", path: "pricing"},
+        {link: "Price", path: "pricing"},
         {link: "SigIn", path: "sigin"},
         {link: "Contact", path: "contact"}
     ]
